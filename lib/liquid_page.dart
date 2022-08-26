@@ -1,7 +1,3 @@
 library liquid_page;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'package:liquid_page/src/liquid_page_transition.dart';

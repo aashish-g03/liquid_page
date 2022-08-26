@@ -1,7 +1,8 @@
 name: liquid_page
-description: A new Flutter package project.
+description: A Flutter Package for custom page transition animations.
 version: 0.0.1
-homepage:
+repository: https://github.com/aashish-g03/liquid_page
+homepage: https://github.com/aashish-g03/liquid_page
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
